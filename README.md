@@ -32,9 +32,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Calling a method on object directly(obj.fnName) vs calling that method using apply on the same object(obj.fnName.apply(obj, arguments))))?](https://stackoverflow.com/questions/56651928/calling-a-method-on-object-directlyobj-fnname-vs-calling-that-method-using-app)
+- [Calling a method on object directly&lpar;obj.fnName&rpar; vs calling that method using apply on the same object&lpar;obj.fnName.apply&lpar;obj, arguments&rpar;&rpar;&rpar;&rpar;?](https://stackoverflow.com/questions/56651928/calling-a-method-on-object-directlyobj-fnname-vs-calling-that-method-using-app)
 - [How to package an angular component along with all the dependent components and services in angular7 to use it in other angular apps](https://stackoverflow.com/questions/55519909/how-to-package-an-angular-component-along-with-all-the-dependent-components-and)
 - [Not able to send Username and Password in Angular http request headers](https://stackoverflow.com/questions/54236803/not-able-to-send-username-and-password-in-angular-http-request-headers)
-- [Invoke process of replacing <component-selector> to the <component-template> in angular 4](https://stackoverflow.com/questions/53377092/invoke-process-of-replacing-component-selector-to-the-component-template-in)
+- [Invoke process of replacing &lt;component-selector&gt; to the &lt;component-template&gt; in angular 4](https://stackoverflow.com/questions/53377092/invoke-process-of-replacing-component-selector-to-the-component-template-in)
 - [How can I put my Extjs 4.2.x project inside latest Angular App](https://stackoverflow.com/questions/48524407/how-can-i-put-my-extjs-4-2-x-project-inside-latest-angular-app)
 <!-- BLOG-POST-LIST:END -->
